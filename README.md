@@ -52,6 +52,8 @@ npm run dev
 
 Frontend will be available at: http://localhost:5173
 
+live vercel link : https://mini-crm-app-one.vercel.app
+
 🛠️ Tech Stack Used
 Frontend
 
